@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">almacenamientoExternoInterno</string>
+    <string name="ingresa_texto">Ingrese un texto</string>
+    <string name="guardar">Guardar</string>
 </resources>
